@@ -5,7 +5,7 @@
 // Coloque aqui o número do WhatsApp da psicóloga.
 // Formato internacional, sem +, espaços, parênteses ou traços.
 // Exemplo para Brasil: 5547999999999
-const whatsappNumber = "5500000000000";
+const whatsappNumber = "5594999535642";
 
 const whatsappMessage =
   "Olá! Gostaria de saber mais sobre o atendimento psicológico online.";
