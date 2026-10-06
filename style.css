@@ -558,6 +558,10 @@ details p {
   .cards-4 {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .hero-photo {
+    min-height: 400px;
+  }
 }
 
 @media (max-width: 760px) {
